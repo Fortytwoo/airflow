@@ -8,6 +8,12 @@
     "Variables": "变量"
   },
   "allOperators": "全部操作器",
+  "appearance": {
+    "appearance": "外观",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "systemMode": "跟随系统设置"
+  },
   "asset_one": "资源",
   "asset_other": "资源",
   "assetEvent_one": "资源事件",
@@ -34,6 +40,7 @@
     "hasTaskConcurrencyLimits": "有任务并发数限制",
     "lastExpired": "最后过期时间",
     "lastParsed": "最后解析时间",
+    "lastParseDuration": "最后解析耗时",
     "latestDagVersion": "最新 Dag 版本",
     "latestRun": "上次 Dag 执行",
     "maxActiveRuns": "活跃执行数上限",
@@ -101,7 +108,8 @@
     "runAfterFromPlaceholder": "执行时间起始",
     "runAfterToPlaceholder": "执行时间结束",
     "runIdPlaceholder": "按执行 ID 筛选",
-    "taskIdPlaceholder": "按任务 ID 筛选"
+    "taskIdPlaceholder": "按任务 ID 筛选",
+    "triggeringUserPlaceholder": "按用户筛选"
   },
   "logicalDate": "逻辑日期",
   "logout": "退出登录",
