@@ -99,12 +99,12 @@
     "any": "任何",
     "or": "或"
   },
-  "filter": "TODO: translate: Filter",
+  "filter": "筛选",
   "filters": {
-    "logicalDateFrom": "TODO: translate: Logical Date From",
-    "logicalDateTo": "TODO: translate: Logical Date To",
-    "runAfterFrom": "TODO: translate: Run After From",
-    "runAfterTo": "TODO: translate: Run After To"
+    "logicalDateFrom": "开始日期",
+    "logicalDateTo": "结束日期",
+    "runAfterFrom": "开始时间",
+    "runAfterTo": "结束时间"
   },
   "logicalDate": "逻辑日期",
   "logout": "退出登录",
@@ -146,7 +146,7 @@
     "running": "执行中",
     "scheduled": "已调度"
   },
-  "reset": "TODO: translate: Reset",
+  "reset": "重置",
   "runId": "执行 ID",
   "runTypes": {
     "asset_triggered": "资源触发",
@@ -204,7 +204,7 @@
     "filterColumns": "筛选表格列",
     "filterReset_one": "重置筛选",
     "filterReset_other": "重置筛选",
-    "from": "从",
+    "from": "开始时间",
     "maxActiveRuns": "最大活跃执行数",
     "noTagsFound": "找不到标签",
     "tagMode": {
@@ -212,7 +212,7 @@
       "any": "任何"
     },
     "tagPlaceholder": "按标签筛选",
-    "to": "到"
+    "to": "结束时间"
   },
   "task": {
     "documentation": "任务文档",
