@@ -25,7 +25,7 @@
     "approvalRequired": "需要批准",
     "choiceReceived": "已选择",
     "choiceRequired": "需要选择",
-    "noResponseReceived": "未收到响应",
+    "noResponseReceived": "需要操作的",
     "rejectionReceived": "已拒绝",
     "responseReceived": "已响应",
     "responseRequired": "需要响应"

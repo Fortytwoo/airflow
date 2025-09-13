@@ -101,10 +101,10 @@
   },
   "filter": "筛选",
   "filters": {
-    "logicalDateFrom": "开始日期",
-    "logicalDateTo": "结束日期",
-    "runAfterFrom": "开始时间",
-    "runAfterTo": "结束时间"
+    "logicalDateFrom": "逻辑日期起始",
+    "logicalDateTo": "逻辑结束日期",
+    "runAfterFrom": "执行时间起始",
+    "runAfterTo": "执行时间结束"
   },
   "logicalDate": "逻辑日期",
   "logout": "退出登录",
